@@ -1,0 +1,28 @@
+body {
+    background-color: cornflowerblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-shadow: 5px 5px 5px rgba(0,0,0,0.2);
+
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+    text-align: center;
+
+
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    color: black;
+    font-family: 'Times New Roman';
+    font-size: large;
+    text-align: center;
+    
+}
